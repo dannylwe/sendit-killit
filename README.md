@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/dannylwe/sendit-killit.svg?branch=develop)](https://travis-ci.org/dannylwe/sendit-killit) [![Maintainability](https://api.codeclimate.com/v1/badges/c65a7d2e7b0586c4e386/maintainability)](https://codeclimate.com/github/dannylwe/sendit-killit/maintainability)
