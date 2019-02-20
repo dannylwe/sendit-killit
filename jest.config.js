@@ -1,4 +1,0 @@
-{
-    "collectCoverage": true,
-    "coverageReporters": ["lcov"],
-}
